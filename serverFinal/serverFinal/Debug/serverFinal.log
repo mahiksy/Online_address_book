@@ -1,0 +1,4 @@
+﻿  serverFinal.cpp
+C:\Users\moham\Desktop\Winter2022\cis427\sec part\sec part\serverFinal\serverFinal\serverFinal.cpp(342,35): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\moham\Desktop\Winter2022\cis427\sec part\sec part\serverFinal\serverFinal\serverFinal.cpp(51,7): warning C4101: 'buf': unreferenced local variable
+  serverFinal.vcxproj -> C:\Users\moham\Desktop\Winter2022\cis427\sec part\sec part\serverFinal\Debug\serverFinal.exe

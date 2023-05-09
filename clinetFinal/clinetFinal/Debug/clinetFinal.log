@@ -1,0 +1,3 @@
+﻿  clientFinal.cpp
+C:\Users\moham\Desktop\Winter2022\cis427\sec part\sec part\clinetFinal\clinetFinal\clientFinal.cpp(21,7): warning C4101: 'buffer': unreferenced local variable
+  clinetFinal.vcxproj -> C:\Users\moham\Desktop\Winter2022\cis427\sec part\sec part\clinetFinal\Debug\clinetFinal.exe
